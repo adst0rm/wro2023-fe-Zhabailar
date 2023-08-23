@@ -25,3 +25,6 @@
     - **Speed:** Program the motors to achieve the desired speed and take into account the restrictions on safe movement.
     - **Torque:** Select motors with sufficient torque to overcome driving resistance and maneuver.
     - **Power:** Calculate the required power to provide the required performance and efficiency of the robot.
+  
+   ![bottom](https://github.com/adst0rm/wro2023-fe-Zhabailar/assets/113520087/1226795a-ba12-48d4-b5e1-99bdb0909164)
+
