@@ -1,5 +1,8 @@
 You can use this code via Visual Studio 2022 and compile this via downloading the ev3dev2 framework in VSCode
 
+**Download the ev3dev2 model to your EV3 block via this link:**
+https://www.ev3dev.org/news/2018/08/06/python-ev3dev-v2/
+
 This Python script is designed to control a robot on the LEGO MINDSTORMS EV3 platform. It involves reading data from various sensors, making decisions based on that data, and controlling motors accordingly to navigate the robot. Let's break down the key components and functionalities of this script:
 
 1. **Importing Libraries:**
